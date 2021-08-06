@@ -2,6 +2,7 @@
 
 ## equipo sysadmin
 
+- ALUMNO X
 - BAUTES, ZE CARLOS
 - BAUZA, FACUNDO
 - CASTRO DAVERI, ANDRES NICOLAS
