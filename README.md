@@ -23,6 +23,8 @@
 - PERDOMO REBERON, NAHUEL
 - PORTAL FERNÁNDEZ, YONATHAN
 
+Se agregan cambios en la rama test2
+
 ## Enlaces
 
 - [tarea01](https://github.com/TecnologoInformatico/tarea01)
