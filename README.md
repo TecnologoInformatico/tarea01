@@ -1,25 +1,36 @@
 # TAREA 1
-
-## equipo sysadmin
-
-- BAUTES, ZE CARLOS
-- BAUZA, FACUNDO
-- CASTRO DAVERI, ANDRES NICOLAS
-- CENTURIÓN LOPEZ, SEBASTIÁN
-- CHAVEZ NOGUERA, IGNACIO
-- CORTALEZZI BORGES, CRISTIAN
-- CUESTA FONTANA, FRANCO VALENTINO
-- CUSTE, CARLOS
-- GALARETTO IMBERT, LUCAS
-- GUILLEN MARTINEZ, NICOLAS
-- LACAVA AGUIRRE, EMMANUEL ANDRÉS
-- LÓPEZ VILLAGRÁN, ROMINA
-- MARRA ANGULO, FELIPE
-- MARRERO TRUCIDO, LEANDRO
-- NEGRIN SANCHEZ, SANTIAGO
-- PARADA CANTISANI, JUAN FELIPE
-- PERALTA ZUBIAGA, ALEXIS
-- PERDOMO REBERON, NAHUEL
-- PORTAL FERNÁNDEZ, YONATHAN
-test
-HOLA HOLA
+Prueba de conflicto
+Prueba de conflictoPrueba de conflictoPrueba de conflictoPrueba de conflictoPrueba de conflictoPrueba de conflictoPrueba de conflictoPrueba de conflictoPrueba de conflicto
+Prueba de conflicto
+Prueba de conflicto
+Prueba de conflictoPrueba de conflicto
+Prueba de conflicto
+Prueba de conflictoPrueba de conflicto
+Prueba de conflicto
+Prueba de conflictoPrueba de conflictoPrueba de conflictoPrueba de conflictoPrueba de conflictoPrueba de conflictoPrueba de conflictoPrueba de conflictoPrueba de conflicto
+Prueba de conflicto
+Prueba de conflicto
+Prueba de conflictoPrueba de conflicto
+Prueba de conflicto
+Prueba de conflictoPrueba de conflicto
+Prueba de conflicto
+Prueba de conflictoPrueba de conflictoPrueba de conflictoPrueba de conflictoPrueba de conflictoPrueba de conflictoPrueba de conflictoPrueba de conflictoPrueba de conflicto
+Prueba de conflicto
+Prueba de conflicto
+Prueba de conflictoPrueba de conflicto
+Prueba de conflicto
+Prueba de conflictoPrueba de conflicto
+Prueba de conflicto
+Prueba de conflictoPrueba de conflictoPrueba de conflictoPrueba de conflictoPrueba de conflictoPrueba de conflictoPrueba de conflictoPrueba de conflictoPrueba de conflicto
+Prueba de conflicto
+Prueba de conflicto
+Prueba de conflictoPrueba de conflicto
+Prueba de conflicto
+Prueba de conflictoPrueba de conflicto
+Prueba de conflicto
+Prueba de conflictoPrueba de conflictoPrueba de conflictoPrueba de conflictoPrueba de conflictoPrueba de conflictoPrueba de conflictoPrueba de conflictoPrueba de conflicto
+Prueba de conflicto
+Prueba de conflicto
+Prueba de conflictoPrueba de conflicto
+Prueba de conflicto
+Prueba de conflictoPrueba de conflicto
